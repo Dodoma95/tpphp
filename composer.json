@@ -1,0 +1,13 @@
+{
+    "name": "administrateur/modern-php",
+    "description": "Un premier projet moderne",
+    "authors": [
+        {
+            "name": "dorian",
+            "email": "maillard.dorian60@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
